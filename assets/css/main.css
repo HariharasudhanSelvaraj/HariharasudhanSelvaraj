@@ -1,3 +1,5 @@
+@import "minimal-mistakes";
+
 /* Make avatar square and centered */
 .author__avatar img {
   width: 150px !important;
