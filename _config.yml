@@ -72,7 +72,7 @@ plugins:
 author:
   name   : "Hariharasudhan S"
   avatar : "/assets/images/me.jpg"
-  bio    : "Hi, I am an Econ student. I will Documenting my learnings and exploration here. Feel free to read them ;) "
+  bio    : "Hi, I am an Econ student. I will be documenting my learnings and exploration here. Feel free to read them ;) "
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"

@@ -1,9 +1,10 @@
 ---
 permalink: /about/
 title: "About"
-published: false
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am Hariharasudhan, pursuing BA (HONS) Economics at Madras school of Economics (MSE). I am exploring the fields of finance and Deep learning. Particularly, interested in how stable distrbutions aid in devloping better risk and investment models. Similarly, exploring the ways of implemnting Reinforcement learning (RL) into the space of trading.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+In my free time, I enjoy watching anime and movies. I also like playing playsataion (fav: Uncharted series). Also feel free to check my blog during my high School; I wrote about Theory of Knowledge (TOK) and fun activities I did (poster making, cooking, stock market competition experiences).
+
+Link: https://whynotsoyou.blogspot.com/
