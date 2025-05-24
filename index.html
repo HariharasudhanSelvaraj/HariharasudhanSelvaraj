@@ -55,16 +55,18 @@ author_profile: true
 
 <section id="contact">
   <h2>📬 Contact Me</h2>
-  <form action="https://formspree.io/f/xvganjew" method="POST">
-    <label for="name">Name:</label><br>
-    <input type="text" id="name" name="name" required><br><br>
+  <form action="https://formspree.io/f/your_form_id" method="POST" style="display: flex; flex-direction: row; gap: 2rem; flex-wrap: wrap;">
+    <div style="flex: 1;">
+      <label for="name">Name:</label><br>
+      <input type="text" id="name" name="name" required><br><br>
 
-    <label for="email">Email:</label><br>
-    <input type="email" id="email" name="_replyto" required><br><br>
-
-    <label for="message">Message:</label><br>
-    <textarea id="message" name="message" rows="5" required></textarea><br><br>
-
-    <button type="submit">Send</button>
+      <label for="email">Email:</label><br>
+      <input type="email" id="email" name="_replyto" required><br><br>
+    </div>
+    <div style="flex: 2;">
+      <label for="message">Message:</label><br>
+      <textarea id="message" name="message" rows="5" required></textarea><br><br>
+      <button type="submit">Send</button>
+    </div>
   </form>
 </section>
