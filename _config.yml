@@ -22,6 +22,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 minimal_mistakes_skin: "dark"
 search: true
 
+assets:
+  css:
+    - "/assets/css/custom.css"
+
+
 # Build settings
 future: false
 unpublished: false
@@ -115,6 +120,3 @@ tag_archive:
   type: liquid
   path: /tags/
 
-assets:
-  css:
-    - "/assets/css/custom.css"
