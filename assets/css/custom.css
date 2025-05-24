@@ -1,13 +1,19 @@
+/* Make avatar square and centered */
 .author__avatar img {
-  width: 120px !important;
-  height: 120px !important;
-  border-radius: 50% !important;
+  width: 150px !important;
+  height: 150px !important;
+  border-radius: 0% !important;
   object-fit: cover !important;
   display: block;
   margin: 0 auto;
 }
 
+/* Center avatar container (optional if not centered) */
+.author__avatar {
+  text-align: center;
+}
 
+/* Justify bio text */
 .author__bio {
   text-align: justify !important;
 }
