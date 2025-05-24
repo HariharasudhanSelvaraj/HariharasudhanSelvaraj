@@ -24,7 +24,7 @@ search: true
 
 # Build settings
 future: false
-unpublished: true
+unpublished: false
 
 
 # Build settings
@@ -115,3 +115,6 @@ tag_archive:
   type: liquid
   path: /tags/
 
+assets:
+  css:
+    - "/assets/css/custom.css"
