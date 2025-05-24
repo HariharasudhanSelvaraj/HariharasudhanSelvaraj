@@ -22,9 +22,15 @@ description: >- # this means to ignore newlines until "baseurl:"
 minimal_mistakes_skin: "dark"
 search: true
 
-assets:
-  css:
-    - "/assets/css/custom.css"
+# Add this line at the top level of your config
+head_scripts:
+  - _includes/head-custom.html
+  
+# Put this line at the top level
+include:
+  - _includes/head-custom.html
+
+
 
 
 # Build settings
@@ -105,6 +111,7 @@ defaults:
       comments: true
       share: true
       related: true
+      css: "/assets/css/custom.css"
   # _pages
   - scope:
       path: "_pages"
@@ -112,6 +119,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      css: "/assets/css/custom.css"
 
 category_archive:
   type: liquid
@@ -119,4 +127,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
 
