@@ -2,7 +2,8 @@
 title: "Are stock returns noramlly distrbuted?"
 layout: single
 author_profile: true
-tags: [Exploration, Finance, statistics ]
+categories: [Exploration, Finance, statistics]
+tags: [Shapiro-Wilk test, Ljung-box test, Normal distribution]
 ---
 
 ## Assumptions are meant to be challenged. 
