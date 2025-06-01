@@ -70,7 +70,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Hariharasudhan S"
+  name   : ""
   avatar : "/assets/images/me.jpg"
   bio    : "Hi, I am an Econ student. I will be documenting my learnings and exploration here. Feel free to read them ;) "
   links:
